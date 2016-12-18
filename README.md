@@ -1,5 +1,5 @@
 # PHP compiled extensions for Windows
-Set of additional precompiled DLL extensions for offical version of PHP for Windows like XAMP or WAMP or version downloaded from php.net
+Set of additional precompiled DLL extensions for official version of PHP for Windows like XAMP or WAMP or version downloaded from php.net
 
 ## Steps to install
 1. Look at your PHP version, VC (visual C version), and thread safe status in your phpinfo
